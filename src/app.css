@@ -1,0 +1,27 @@
+.todo-name {
+  font-weight: 700px;
+  font-size: 50px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+}
+
+.container {
+  text-align: left;
+}
+
+.btn-col {
+  margin: 10px 5px;
+  min-width: 80px;
+  position: relative;
+  right: 5px;
+  bottom: 12px;
+}
+.kg-btn {
+  position: relative;
+  right: 5px;
+  bottom: 2px;
+}
